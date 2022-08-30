@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Nick's First CS193 Homework
+
+List of things I like about CS193:
+- I get credit for taking it
+- I learn things I will use in a computer science career
+- I get to meet other people from my major
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
